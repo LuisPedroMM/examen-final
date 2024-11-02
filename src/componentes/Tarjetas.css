@@ -1,0 +1,31 @@
+.cocktail-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    width: 200px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 51, 0.8); 
+    text-align: center;
+    position: relative;
+}
+
+.cocktail-card img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.info-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+.info-button:hover {
+    background-color: #0056b3;
+}
